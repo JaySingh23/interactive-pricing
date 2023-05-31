@@ -12,7 +12,7 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-pricing-component-using-reactjs-and-materialui-zdHVhmtCgn)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://6476d7df481a915aac9f184d--rococo-blancmange-ca2dcd.netlify.app))
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-pricing-component-using-reactjs-and-materialui-zdHVhmtCgn)
+- Live Site URL: [Live Site](https://6476d7df481a915aac9f184d--rococo-blancmange-ca2dcd.netlify.app)
+- Video Link: [Video](https://drive.google.com/file/d/1hwxkfDS9q5iV1SApNFTaovyR-FfSkslX/view?usp=sharing)
 
 ## My process
 
